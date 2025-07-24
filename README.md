@@ -1,16 +1,41 @@
-# weather_app
+# 🌤️ Weather App
 
-A new Flutter project.
+A simple and beautiful Flutter app that displays real-time weather data and forecast using the [OpenWeatherMap API](https://openweathermap.org/api).
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌡️ Current temperature with weather condition
+- ☁️ Weather icons (sunny, cloudy, rainy)
+- 📊 Additional info: Humidity, Pressure, Wind Speed, Sea Level
+- ⏰ Hourly forecast displayed horizontally
+- 🔄 Refresh button to update data
+- 🎨 Smooth and responsive UI using Flutter widgets
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+*(Add screenshots of your app UI here in the repo)*
+
+---
+
+## 🛠️ Technologies Used
+
+- Flutter (Dart)
+- OpenWeatherMap API
+- HTTP package
+- intl package (for formatting time)
+- Material Design
+
+---
+
+## 🔑 API Key Setup
+
+1. Go to [OpenWeatherMap](https://openweathermap.org/) and create a free account.
+2. Get your API key from the dashboard.
+3. Create a file named `secretKey.dart` inside the `lib` folder:
+
+```dart
+const String openweatherAPI = "YOUR_API_KEY_HERE";
