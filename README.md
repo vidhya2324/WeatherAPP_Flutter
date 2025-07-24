@@ -15,11 +15,9 @@ A simple and beautiful Flutter app that displays real-time weather data and fore
 
 ---
 
-## 📸 Screenshots
+## Deployed App
 
-<p align="center">
-  <img src="https://github.com/vidhya2324/WeatherAPP_Flutter/blob/master/lib/assests/sample_result.png" width="400"/>
-</p>
+https://weather-app-flutter-nqw2.vercel.app/
 
 ---
 
