@@ -6,12 +6,12 @@ A simple and beautiful Flutter app that displays real-time weather data and fore
 
 ## 🚀 Features
 
-- 🌡️ Current temperature with weather condition
-- ☁️ Weather icons (sunny, cloudy, rainy)
-- 📊 Additional info: Humidity, Pressure, Wind Speed, Sea Level
-- ⏰ Hourly forecast displayed horizontally
-- 🔄 Refresh button to update data
-- 🎨 Smooth and responsive UI using Flutter widgets
+- Current temperature with weather condition
+- Weather icons (sunny, cloudy, rainy)
+- Additional info: Humidity, Pressure, Wind Speed, Sea Level
+- Hourly forecast displayed horizontally
+- Refresh button to update data
+- Smooth and responsive UI using Flutter widgets
 
 ---
 
